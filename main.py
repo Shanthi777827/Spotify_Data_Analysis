@@ -1,0 +1,43 @@
+#data types
+name="Shanthi"
+print(name)
+age=9
+print(age)
+balance=50.0
+print(balance)
+hascreditcard =False
+print(hascreditcard)
+name="Shanthi"
+print(name)
+age=10
+print(age)
+rating=3.47
+print(rating)
+print(type(rating))
+available_for_work=True
+name="siva"
+print(name[3])
+print(10+3*4)
+print(20-10/5*2)
+print(2**3**(2%10))
+#Relational operators
+a="sivaz"
+b="sivz"
+print(a<b)
+a=5
+b=7
+print(a,b)
+#1Swapping
+temp=a
+a=b
+b=temp
+print(a,b)
+#2
+a,b=b,a
+print(a,b)
+a=5
+b=10
+a+=b
+b=a-b
+a-=b
+print(a,b)
