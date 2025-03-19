@@ -1,5 +1,5 @@
 # Spotify Data Analysis Using MYSQL
-Introduction
+##Introduction
 This project aims to analyze Spotify data to gain insights into song popularity, artist trends, and key musical features. Using SQL, the project focuses on data cleaning, transformation, and querying to answer insightful questions about the dataset.
 Dataset Information
 The project utilizes two datasets:
